@@ -1,3 +1,24 @@
+# Personal hobby fork — pmos-tapas
+
+This is a personal hobby and learning project by a non-developer, experimenting
+with Linux on their own Xiaomi Redmi Note 12 4G. Changes in this fork may be
+AI-assisted; this is not a claim to have developed the original port.
+
+**Original project and port credit: [Sype0](https://github.com/Sype0) and the
+[upstream pmos-tapas contributors](https://github.com/Sype0/pmos-tapas).**
+The original commit history, license, copyright notices, and upstream dependency
+credits are preserved. Credit for the underlying Linux kernel, postmarketOS,
+and other included components remains with their respective authors.
+
+Our development branch is `work/tapas`. The branch `baseline/2026-11-20`
+preserves upstream commit `c5b6ab106f8277908a56b77a6a595d4ad0531dba`
+unchanged. See [PROJECT.md](PROJECT.md) for the working setup and rollback notes.
+
+The upstream README below is retained for reference; its release links refer
+to the original author's images. This fork has not built or tested new images.
+
+---
+
 # pmos-tapas
 
 Mainline Linux bring-up for the Xiaomi Redmi Note 12 4G (`tapas`,
